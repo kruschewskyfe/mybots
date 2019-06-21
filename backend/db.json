@@ -1,0 +1,28 @@
+{
+  "bots": [
+    {
+      "id": 1,
+      "name": "Bot 1",
+      "createdAt": "20/5/2019"
+    },
+    {
+      "id": 2,
+      "name": "Bot 2",
+      "createdAt": "20/5/2019"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "message": "",
+      "sendAt": ""
+    }
+  ],
+  "chat": [
+    {
+      "id": 1,
+      "idBot": 1,
+      "messages": []
+    }
+  ]
+}
